@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mahoupao233.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-09-12T01:06:04.927Z</updated>
+    <title>爻</title>
+    <updated>2022-09-12T01:18:14.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mahoupao233.github.io"/>
     <link rel="self" href="https://mahoupao233.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>日三省吾身</subtitle>
     <logo>https://mahoupao233.github.io/images/avatar.png</logo>
     <icon>https://mahoupao233.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, 爻</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://mahoupao233.github.io/post/hello-gridea/</id>
